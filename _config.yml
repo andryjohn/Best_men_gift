@@ -5,21 +5,17 @@ image_thumbs_loc: "/images/thumbs"
 google_analytics: ""
 
 # UI configs
-title: ""
+title: "Mariage de Yoann & Audrey 18 Mai 2019"
 subtitle: ""
-author: ""
+author: "Andry RAJOHNSON"
 header:
- title: "Photography"
- subtitle: "by "
-footer:
+ title: "all photos are Take by"
+ subtitle: "by Andry RAJOHNSON"
+footer: 
  name: ""
  bio: ""
  github: ""
-web_design: ""
+web_design: " by Andry RAJOHNSON, made with Jekyll and hosted on Github Pages"
 social_urls:
-  facebook: "https://www.facebook.com/"
-  twitter: "https://www.twitter.com/"
-  instagram: "https://www.instagram.com/"
-  dribbble: "https://dribbble.com/"
-  linkedin: ""
-  github: "https://www.github.com/"
+  twitter: "https://www.twitter.com/rajohnsonandry"
+  github: "https://www.github.com/andryjohn"
