@@ -168,9 +168,9 @@
 
 	body, input, select, textarea {
 		color: #a0a0a1;
-		font-family: "Source Sans Pro", Helvetica, sans-serif;
-		font-size: 15pt;
-		font-weight: 300;
+		font-family: "Source Sans Pro", Helvetica, serif;
+		font-size: 12pt;
+		font-weight: lighter;
 		letter-spacing: 0.025em;
 		line-height: 1.65;
 	}
@@ -200,7 +200,7 @@
 
 	strong, b {
 		color: #ffffff;
-		font-weight: 300;
+		font-weight: lighter;
 	}
 
 	em, i {
@@ -1489,7 +1489,7 @@
 			-ms-transform: translateY(0);
 			transform: translateY(0);
 			bottom: auto;
-			height: 4em;
+			height: 2em;
 			padding: 0 1em;
 			top: 0;
 		}

@@ -1,5 +1,5 @@
 # Base configs
-baseurl: "/wedding_photos"
+baseurl: ""
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
 google_analytics: ""
@@ -10,12 +10,12 @@ subtitle: ""
 author: "Andry RAJOHNSON"
 header:
  title: "all photos are Take by"
- subtitle: "by Andry RAJOHNSON"
+ subtitle: "Andry RAJOHNSON"
 footer: 
  name: ""
  bio: ""
  github: ""
-web_design: " by Andry RAJOHNSON, made with Jekyll and hosted on Github Pages"
+web_design: " by Andry RAJOHNSON, Fullstack Developer, made with Jekyll and hosted on Github Pages"
 social_urls:
   twitter: "https://www.twitter.com/rajohnsonandry"
   github: "https://www.github.com/andryjohn"
