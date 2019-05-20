@@ -1,5 +1,5 @@
 # Base configs
-baseurl: "/wedding_photos"
+baseurl: "http://yoann-audrey.tk"
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
 google_analytics: ""
