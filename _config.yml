@@ -1,21 +1,21 @@
 # Base configs
-baseurl: "http://yoann-audrey.tk"
+baseurl: ""
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
 google_analytics: ""
 
 # UI configs
-title: "Mariage de Yoann & Audrey 18 Mai 2019"
+title: "Mariage de Audrey & Yoann 18 Mai 2019"
 subtitle: ""
 author: "Andry RAJOHNSON"
 header:
- title: "all photos are Take by"
- subtitle: "Andry RAJOHNSON"
+ title: "mit license"
+ subtitle: "all rights reserved"
 footer: 
  name: ""
  bio: ""
  github: ""
-web_design: " by Andry RAJOHNSON, Fullstack Developer, made with Jekyll and hosted on Github Pages"
+web_design: "Andry RAJOHNSON Fullstack Developer, made with Jekyll and hosted on Github Pages"
 social_urls:
   twitter: "https://www.twitter.com/rajohnsonandry"
   github: "https://www.github.com/andryjohn"
