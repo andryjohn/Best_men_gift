@@ -11,10 +11,10 @@ subtitle: "Le weekend du 18 Mai 2019, Audrey & Yoann ont célèbré leur mariage
 author: "Andry RAJOHNSON"
 header:
  title: "astuce:"
- subtitle: " mettre plein écran"
+ subtitle: "mettre plein écran"
 footer: 
  name: "Merci pour votre visite"
- bio: "Si vous souhaitez voir d'autre projet c'est <a href=\"https://github.com/andryjohn/wedding_photos\">ici!</a>"
+ bio: "Si vous souhaitez voir d'autres projets c'est <a href=\"https://github.com/andryjohn/wedding_photos\">ici!</a>"
  github: ""
 web_design: "Andry RAJOHNSON Fullstack Developer, made with Jekyll and hosted on Github Pages"
 social_urls:
