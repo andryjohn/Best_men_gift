@@ -1575,7 +1575,7 @@
 				position: absolute;
 				top: 0;
 				width: 100%;
-			}
+			}s
 
 			#main .thumb > h2 {
 				-moz-pointer-events: none;
@@ -1980,8 +1980,7 @@
 					-ms-transition-delay: 0.95s;
 					transition-delay: 0.95s;
 				}
-
-		}
+	
 
 /* Footer */
 

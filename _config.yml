@@ -6,14 +6,15 @@ google_analytics: ""
 
 # UI configs
 title: "Mariage de Audrey & Yoann 18 Mai 2019"
-subtitle: ""
+subtitle: "Le weekend du 18 Mai 2019, Audrey & Yoann ont célèbré leur mariage, je vous partage ici, une librairie 
+ de photos de cet évènement "
 author: "Andry RAJOHNSON"
 header:
  title: "astuce:"
- subtitle: "plein écran(F11)"
+ subtitle: " mettre plein écran"
 footer: 
- name: ""
- bio: ""
+ name: "Merci pour votre visite"
+ bio: "Si vous souhaitez voir d'autre projet c'est <a href=\"https://github.com/andryjohn/wedding_photos\">ici!</a>"
  github: ""
 web_design: "Andry RAJOHNSON Fullstack Developer, made with Jekyll and hosted on Github Pages"
 social_urls:
