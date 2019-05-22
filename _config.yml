@@ -13,8 +13,8 @@ header:
  title: "astuce:"
  subtitle: "mettre plein écran"
 footer: 
- name: "Merci pour votre visite"
- bio: "Si vous souhaitez voir d'autres projets c'est <a href=\"https://github.com/andryjohn/wedding_photos\">ici!</a>"
+ name: "Merci pour votre visite!"
+ bio: "Si vous souhaitez voir d'autres projets, c'est <a href=\"https://github.com/andryjohn\">ici!</a>"
  github: ""
 web_design: "Andry RAJOHNSON Fullstack Developer, made with Jekyll and hosted on Github Pages"
 social_urls:

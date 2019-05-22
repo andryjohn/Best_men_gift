@@ -1,4 +1,4 @@
-A jekyll website for photographers
+
 
 1. Fork this repo by hitting the `Fork` button at the top right corner.
 2. Enable github pages from the repo settings.
@@ -28,16 +28,4 @@ You can make the contact form work without the need of any server-side code. Jus
 ## Credits
 Thanks to [AJ](https://twitter.com/ajlkn) for the website template which I enhanced for [jekyll](http://jekyllrb.com/).
 
-## Backers
 
-Thank you to all our backers! 🙏 [[Become a backer](https://opencollective.com/photography#backers)]
-
-<a href="https://opencollective.com/photography#backers" target="_blank"><img src="https://opencollective.com/photography/backers.svg?width=890"></a>
-
-<a href="https://www.buymeacoffee.com/rampatra" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
-
-## Sponsors
-
-Support this project by becoming a sponsor. Your logo will show up here with a link to your website. [[Become a sponsor](https://opencollective.com/photography#sponsors)]
- 
-<a href="https://opencollective.com/photography#sponsors" target="_blank"><img src="https://opencollective.com/photography/sponsors.svg?width=890"></a>
