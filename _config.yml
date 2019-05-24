@@ -13,10 +13,10 @@ header:
  title: "astuce:"
  subtitle: "mettre plein écran"
 footer: 
- name: "Merci pour votre visite!"
- bio: "Si vous souhaitez télécharger les photos, c'est juste <a href=\"https://github.com/andryjohn/all_photos\">ICI!</a>"
+ name: "Tous mes voeux aux jeunes mariés!"
+ bio: "Si vous souhaitez télécharger les photos, c'est juste <a href=\"https://github.com/andryjohn/all_photos\">ici!</a>"
  github: ""
-web_design: "Andry RAJOHNSON Fullstack Developer,MIT license made with Jekyll and hosted on Github Pages"
+web_design: "Andry RAJOHNSON ,all right reserved,MIT license made with Jekyll and hosted on Github Pages"
 social_urls:
   twitter: "https://www.twitter.com/rajohnsonandry"
   github: "https://www.github.com/andryjohn"
