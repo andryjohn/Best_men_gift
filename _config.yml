@@ -7,7 +7,7 @@ google_analytics: ""
 # UI configs
 title: "Mariage de Audrey & Yoann 18 Mai 2019 | Prieuré Sain-Cyr | Mairie d'Hautefeuille"
 subtitle: "Le weekend du 18 Mai 2019, Audrey & Yoann ont célèbré leur mariage, je vous partage ici, une librairie 
- de photos de cet évènement "
+ de photos et vidé de cet évènement "
 author: "Andry RAJOHNSON"
 header:
  title: "astuce:"
@@ -16,7 +16,7 @@ footer:
  name: "Tous mes voeux aux jeunes mariés!"
  bio: "Si vous souhaitez télécharger les photos, c'est juste <a href=\"https://github.com/andryjohn/all_photos\">ici!</a>"
  github: ""
-web_design: "Andry RAJOHNSON ,all right reserved,MIT license made with Jekyll and hosted on Github Pages"
+web_design: "Andry RAJOHNSON ,all right reserved. This website is made with "
 social_urls:
   twitter: "https://www.twitter.com/rajohnsonandry"
   github: "https://www.github.com/andryjohn"
