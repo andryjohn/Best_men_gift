@@ -2,7 +2,7 @@
 baseurl: ""
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
-google_analytics: ""
+google_analytics: "UA-140847710-1"
 
 # UI configs
 title: "Mariage de Audrey & Yoann 18 Mai 2019 | Prieuré Sain-Cyr | Mairie d'Hautefeuille"
