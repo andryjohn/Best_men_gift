@@ -194,6 +194,11 @@
 	}
 
 		a:hover {
+        -webkit-transform: scale(1.5);
+  -moz-transform: scale(1.5);
+  -ms-transform: scale(1.5);
+  -o-transform: scale(1.5);
+  transform: scale(1.5);
 			border-bottom-color: transparent;
 			color: #34a58e !important;
 		}
@@ -1563,7 +1568,7 @@
 				top: 0;
 				width: 100%;
 			}
-		
+
 
 			#main .thumb > .image {
 				-webkit-tap-highlight-color: rgba(255, 255, 255, 0);
@@ -1738,7 +1743,7 @@
 				-ms-transition-delay: 2.3s;
 				transition-delay: 2.3s;
 			}
-			
+
 
 		@media screen and (max-width: 1680px) {
 
@@ -1982,7 +1987,7 @@
 					-ms-transition-delay: 0.95s;
 					transition-delay: 0.95s;
 				}
-	
+
 
 /* Footer */
 
