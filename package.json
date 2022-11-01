@@ -27,7 +27,7 @@
   "homepage": "https://github.com/ramswaroop/photography#readme",
   "devDependencies": {
     "del": "^2.2.2",
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.2",
     "gulp-image-resize": "^0.12.0",
     "gulp-jscs": "^4.1.0",
     "gulp-jshint": "^2.1.0",
